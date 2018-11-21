@@ -51,7 +51,7 @@ ipmitool -I lanplus -H 172.22.32.106 -U root -P tvmining chassis power status
 开机 	chassis power on 				
 关机 	chassis power off 				
 重启 	chassis power reset 				
-状态 	chassis power status
+状态 	chassis power status 好
 
 重启下载程序脚本 initctl restart svscan
 
